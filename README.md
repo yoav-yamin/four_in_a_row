@@ -3,6 +3,14 @@
 ## Project Description:
 Four in a Row is a classic two-player game where the objective is to be the first to connect four of one's own discs of the same color in a row, column, or diagonal.
 
+This project implements the game using an Object-Oriented Programming (OOP) approach in Python. The server-side logic is structured around several classes, each responsible for different aspects of the game:
+
+- **Board**: Manages the game board state and provides methods for checking win conditions.
+- **Game**: Orchestrates the game flow, including player turns and win detection.
+- **Player**: Represents a player in the game, with attributes such as name and color.
+- **Server_socket**: Handles communication between the server and clients using sockets.
+- **main**: Acts as the entry point for starting the server and running the game loop.
+
 ## Table of Contents:
 - [Installation](#installation)
 - [Usage](#usage)
