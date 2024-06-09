@@ -1,0 +1,11 @@
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\obj\Debug\Four_in_a_Row.csproj.AssemblyReference.cache
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\obj\Debug\Four_in_a_Row.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\obj\Debug\Four_in_a_Row.csproj.GenerateResource.cache
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\obj\Debug\Four_in_a_Row.csproj.CoreCompileInputs.cache
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\obj\Debug\Four_in_a_Row.home.resources
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\bin\Debug\Client.exe.config
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\bin\Debug\Client.exe
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\bin\Debug\Client.pdb
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\obj\Debug\Client.Properties.Resources.resources
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\obj\Debug\Client.exe
+C:\Users\97250\source\repos\Four_in_a_Row\Four_in_a_Row\obj\Debug\Client.pdb
