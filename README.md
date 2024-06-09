@@ -34,6 +34,8 @@ This project implements the game using an Object-Oriented Programming (OOP) appr
 ## Usage:
 Once both the Python server and the C# client are running, the game can be played on the graphical user interface provided by the C# client. Players take turns dropping colored discs onto the grid in an attempt to connect four of their own discs vertically, horizontally, or diagonally. The Python server handles the game logic and communication between players.
 
+Note: The GUI implementation is located in the home.cs file
+
 ## License:
 This project is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/) license.
 
