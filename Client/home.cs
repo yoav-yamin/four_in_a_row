@@ -35,8 +35,6 @@ namespace Four_in_a_Row
             await Task.Run(() => StartClient());
         }
 
-        // ... (other code remains unchanged)
-
         public async Task StartClient()
         {
             try
@@ -92,7 +90,7 @@ namespace Four_in_a_Row
                                 using (Graphics g = pictureBox1.CreateGraphics())
                                 {
                                     int circleX = col_to_color * (ImageWidth / NumColumns) + 5;
-                                    int circleY = (NumRows - row_to_color - 1) * (ImageHeight / NumRows) + 5; // Updated row calculation
+                                    int circleY = (NumRows - row_to_color - 1) * (ImageHeight / NumRows) + 5; 
                                     Rectangle circle = new Rectangle(circleX, circleY, CircleWidth, CircleHeight);
 
                                     if (player_turn == 0)
